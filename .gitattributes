@@ -1,0 +1,4 @@
+* text=auto
+
+# DotSettings files have LFs, not CRLFs
+*.DotSettings text eol=lf
